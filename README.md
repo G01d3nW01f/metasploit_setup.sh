@@ -1,3 +1,3 @@
 # metasploit_setup.sh
 
-ShellScript to setup for Metasploit-framework in Ubuntu or LinuxMint
+ShellScript of setups for WPscan in ubuntu or LinuxMint
